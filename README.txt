@@ -1,8 +1,7 @@
-CircleCheck themed language prototype
+CircleCheck GitHub update
 
-Open index.html in a browser.
-
-Language-based themes:
-- English: formal UNESCO-inspired blue theme
-- Chinese: red / gold dragon-inspired theme
-- Mongolian: orange / sky-blue ornament-inspired theme based on traditional visual motifs
+Replace your repository's current index.html with this index.html.
+Changes:
+- Removed the center white check-mark box from the hero graphic.
+- Reworked Mongolian copy to sound simpler and more natural.
+- Kept English, Chinese, and Mongolian language-based themes.
